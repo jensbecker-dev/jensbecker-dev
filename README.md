@@ -7,7 +7,6 @@
 ## 👨‍💻 About Me
 I'm a passionate developer focused on creating security tools and web applications. Currently diving deep into:
 
-- 🔭 **Working on:** [OFFG - Offensive GUI](https://github.com/jensbecker-dev/OffensiveGUI) (Pentesting toolkit)
 - 🌱 **Learning:** Modern Web Development (Bootstrap 5, Flask)
 - ⚡ **Fun Fact:** I believe security and accessibility should go hand-in-hand
 
